@@ -154,3 +154,16 @@ while(z>0){
  }
   z--
 }
+
+
+// do while research and example 
+let num =0
+do{
+  console.log(num)
+  num--
+
+}while(num>=0)
+num = 0
+while(num>0){
+  console.log(num)
+  num--
